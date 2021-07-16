@@ -1,0 +1,5 @@
+*.png
+*.json
+*.old
+ci-events.sqlite
+NumberGame/*
